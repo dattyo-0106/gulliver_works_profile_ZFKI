@@ -34,3 +34,14 @@ services:
       POSTGRES_PASSWORD: password
     volumes:
       - ./tmp/db/data:/var/lib/postgresql/data
+
+test
+
+test
+
+test
+
+test
+
+
+test
